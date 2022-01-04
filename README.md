@@ -1,68 +1,67 @@
-About
-ABOUT ME:
-💡 Having 1,5 years of experience in frontend development and sitebuilding in corporate environment.
-💡 HTML5, CSS, CSS3, Javascript, Bootstrap, Sass, GIT, NPM, CDN.
+ABOUT ME: <br><br>
+💡 Having 1,5 years of experience in frontend development and sitebuilding in corporate environment.<br>
+💡 HTML5, CSS, CSS3, Javascript, Bootstrap, Sass, GIT, NPM, CDN, AJAX.<br><br>
 
-MY PORTFOLIO SITE:
-💻 gaboor.hu
+MY PORTFOLIO SITE:<br><br>
+💻 gaboor.hu<br><br>
 
-PROJECT ACHIEVEMENTS:
-💪 Building ecommerce webstores.
-💪 Building admin dashboard.
-💪 Building ecommerce pages (contact, faq, landing pages).
-💪 Building chat application user interface.
-💪 Building web application registration page. 
-💪 Building blog main page. 
-💪 Coding webstore payment interface.
-💪 Managing and moderate Shoprenter's webstores.
+PROJECT ACHIEVEMENTS:<br><br>
+💪 Building ecommerce webstores.<br>
+💪 Building admin dashboard.<br>
+💪 Building ecommerce pages (contact, faq, landing pages).<br>
+💪 Building chat application user interface.<br>
+💪 Building web application registration page. <br>
+💪 Building blog main page. <br>
+💪 Coding webstore payment interface.<br>
+💪 Managing and moderate Shoprenter's webstores.<br><br>
 
-PROJECT PARTICIPATED:
-💻 bexi.hu 
-💻 bearingexpress.shoprenter.hu
-💻 csapagy.hu
-💻 sarkoziklima.hu 
-💻 idée.hu 
-💻 nepijatektar.hu 
-💻 Codeberry school projects (chat application user interface, web application registration page, blog main page, company landing page) 
-💻 sarkozigabormunka.github.io 
-💻 sarkozigabor13.github.io 
+PROJECT PARTICIPATED:<br><br>
+💻 bexi.hu <br>
+💻 bearingexpress.shoprenter.hu<br>
+💻 csapagy.hu<br>
+💻 sarkoziklima.hu <br>
+💻 idée.hu <br>
+💻 nepijatektar.hu <br>
+💻 Codeberry school projects (chat application user interface, web application registration page, blog main page, company landing page) <br>
+💻 sarkozigabormunka.github.io <br>
+💻 sarkozigabor13.github.io <br><br>
 
-VERSION CONTROLS:
-🚀 Github, Git, GitKraken
+VERSION CONTROLS:<br><br>
+🚀 Github, Git, GitKraken<br><br>
 
-ACHIEVEMENTS:
-🏅 Codeberry frontend basics certificate (HTML5, CSS, CSS3, JSBIN, META, CHROME-DEVTOOLS)
-🏆 Codeberry JS course certificate
-🥇 National Office VET and ALE - Frontend course certificate
+ACHIEVEMENTS:<br>
+🏅 Codeberry frontend basics certificate (HTML5, CSS, CSS3, JSBIN, META, CHROME-DEVTOOLS)<br>
+🏆 Codeberry JS course certificate<br>
+🥇 National Office VET and ALE - Frontend course certificate<br><br>
 
-CODE EDITOR: 
-👨🏽💻 Virtual Studio Code
+CODE EDITOR: <br><br>
+👨🏽💻 Virtual Studio Code<br><br>
 
-STILL LEARNING:
-👷🏽 Javascript
-👷🏽 React
-👷🏽 CSS preprocessors (Sass, Less)
+STILL LEARNING:<br><br>
+👷🏽 Javascript<br>
+👷🏽 React<br>
+👷🏽 CSS preprocessors (Sass, Less)<br><br>
 
-I'VE USED:
-🧩 Figma
-🎨 Canva
-⌛️ Trello
-⌛️ Slack
+I'VE USED:<br><br>
+🧩 Figma<br>
+🎨 Canva<br>
+⌛️ Trello<br>
+⌛️ Slack<br>
 
-TECHNICAL COMPETENCIES:
-📌 Passionate about learning new technologies (React, VueJS, Angular)
-📌 Passionate about learning new sitebuilder tools (Elementor, Wordpress, Shopify)
-📌 Passionate about learning new css frameworks (Bulma, TailwandCSS, Codyhouse)
+TECHNICAL COMPETENCIES:<br><br>
+📌 Passionate about learning new technologies (React, VueJS, Angular)<br>
+📌 Passionate about learning new sitebuilder tools (Elementor, Wordpress, Shopify)<br>
+📌 Passionate about learning new css frameworks (Bulma, TailwandCSS, Codyhouse)<br><br>
 
-MORE ABOUT ME AND SOFT SKILLS:
-🍻 Mobile-first design concept  
-🍻 Responsive, flexible 
-🍻 DRY principle, Clean Code 
-🍻 Style guide keeping in mind 
-🍻 Participation in planning and design processes
-🍻 Working quickly 
-🍻 Independent problem solving
-🍻 Autodidact self-education 
-🍻 Creativity and willingness to learn 
-🍻 Good interpersonal communication 
-🍻 Growth mindset
+MORE ABOUT ME AND SOFT SKILLS:<br><br>
+🍻 Mobile-first design concept  <br>
+🍻 Responsive, flexible <br>
+🍻 DRY principle, Clean Code <br>
+🍻 Style guide keeping in mind <br>
+🍻 Participation in planning and design processes<br>
+🍻 Working quickly <br>
+🍻 Independent problem solving<br>
+🍻 Autodidact self-education <br>
+🍻 Creativity and willingness to learn <br>
+🍻 Good interpersonal communication <br>
+🍻 Growth mindset<br>
