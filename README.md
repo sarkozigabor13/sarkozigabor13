@@ -1,4 +1,4 @@
-ABOUT ME: <br>
+ABOUT ME: <br><br>
 💡 Having 3 years of experience in frontend development and sitebuilding in corporate environment.<br>
 💡 HTML5, CSS, CSS3 <br>
 💡 Javascript, React, GatsbyJS, Next.js <br>
