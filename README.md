@@ -1,8 +1,8 @@
 ABOUT ME: <br>
 💡 Having 3 years of experience in frontend development and sitebuilding in corporate environment.<br>
-💡 HTML5, CSS, CSS3 <br><br>
-💡 Javascript, React, GatsbyJS, Next.js <br><br>
-💡 Bootstrap, Chakra UI <br><br>
+💡 HTML5, CSS, CSS3 <br>
+💡 Javascript, React, GatsbyJS, Next.js <br>
+💡 Bootstrap, Chakra UI <br>
 💡 Sass, GIT, NPM, CDN, AJAX, Grunt. <br><br>
 
 
