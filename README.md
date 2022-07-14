@@ -1,6 +1,10 @@
 ABOUT ME: <br>
-💡 Having 1,5 years of experience in frontend development and sitebuilding in corporate environment.<br>
-💡 HTML5, CSS, CSS3, Javascript, Bootstrap, Sass, GIT, NPM, CDN, AJAX.<br><br>
+💡 Having 3 years of experience in frontend development and sitebuilding in corporate environment.<br>
+💡 HTML5, CSS, CSS3 <br><br>
+💡 Javascript, React, GatsbyJS, Next.js <br><br>
+💡 Bootstrap, Chakra UI <br><br>
+💡 Sass, GIT, NPM, CDN, AJAX, Grunt. <br><br>
+
 
 MY PORTFOLIO SITE:<br><br>
 💻 gaboor.hu<br><br>
@@ -37,16 +41,13 @@ ACHIEVEMENTS:<br>
 CODE EDITOR: <br><br>
 👨🏽💻 Virtual Studio Code<br><br>
 
-STILL LEARNING:<br><br>
-👷🏽 Javascript<br>
-👷🏽 React<br>
-👷🏽 CSS preprocessors (Sass, Less)<br><br>
-
 I'VE USED:<br><br>
 🧩 Figma<br>
 🎨 Canva<br>
 ⌛️ Trello<br>
 ⌛️ Slack<br>
+⌛️ Toggl<br>
+⌛️ ClickUp<br>
 
 TECHNICAL COMPETENCIES:<br><br>
 📌 Passionate about learning new technologies (React, VueJS, Angular)<br>
