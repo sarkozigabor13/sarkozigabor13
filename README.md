@@ -33,7 +33,7 @@ PROJECT PARTICIPATED:<br><br>
 VERSION CONTROLS:<br><br>
 🚀 Github, Git, GitKraken<br><br>
 
-ACHIEVEMENTS:<br>
+ACHIEVEMENTS:<br><br>
 🏅 Codeberry frontend basics certificate (HTML5, CSS, CSS3, JSBIN, META, CHROME-DEVTOOLS)<br>
 🏆 Codeberry JS course certificate<br>
 🥇 National Office VET and ALE - Frontend course certificate<br><br>
