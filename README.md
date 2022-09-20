@@ -1,13 +1,10 @@
 ABOUT ME: <br><br>
 💡 Having 3 years of experience in frontend development and sitebuilding in corporate environment.<br>
-💡 HTML5, CSS, CSS3 <br>
+💡 HTML5, CSS, CSS3, Sass <br>
 💡 Javascript, React, GatsbyJS, Next.js <br>
 💡 Bootstrap, Chakra UI <br>
-💡 Sass, GIT, NPM, CDN, AJAX, Grunt. <br><br>
-
-
-MY PORTFOLIO SITE:<br><br>
-💻 gaboor.hu<br><br>
+💡 Storybook, Chromatic <br>
+💡 GIT, NPM, Yarn, CDN, AJAX, Grunt. <br><br>
 
 PROJECT ACHIEVEMENTS:<br><br>
 💪 Building ecommerce webstores.<br>
@@ -21,6 +18,7 @@ PROJECT ACHIEVEMENTS:<br><br>
 
 PROJECT PARTICIPATED:<br><br>
 💻 bexi.hu <br>
+💻 shop.frabex.com <br>
 💻 bearingexpress.shoprenter.hu<br>
 💻 csapagy.hu<br>
 💻 sarkoziklima.hu <br>
@@ -31,18 +29,25 @@ PROJECT PARTICIPATED:<br><br>
 💻 sarkozigabor13.github.io <br><br>
 
 VERSION CONTROLS:<br><br>
-🚀 Github, Git, GitKraken<br><br>
+🚀 Github, GitKraken<br>
+🚀 BitBucket<br><br>
+
+DEPLOY SYSTEM:<br><br>
+👑 Vercel, Netlify<br><br>
 
 ACHIEVEMENTS:<br><br>
+🏆 UDEMY: TS, Next.js, React, Storybook, Chakra UI<br>
 🏅 Codeberry frontend basics certificate (HTML5, CSS, CSS3, JSBIN, META, CHROME-DEVTOOLS)<br>
 🏆 Codeberry JS course certificate<br>
 🥇 National Office VET and ALE - Frontend course certificate<br><br>
 
 CODE EDITOR: <br><br>
-👨🏽💻 Virtual Studio Code<br><br>
+👨🏽💻 Virtual Studio Code<br>
+👨🏽💻 JetBrains - WebStorm <br><br>
 
 I'VE USED:<br><br>
 🧩 Figma<br>
+🧩 Adobe Xd<br>
 🎨 Canva<br>
 ⌛️ Trello<br>
 ⌛️ Slack<br>
