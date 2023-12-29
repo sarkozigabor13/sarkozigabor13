@@ -1,3 +1,8 @@
+
+![illu_light](https://github.com/sarkozigabor13/sarkozigabor13/assets/66883938/e78171e7-8dd7-48ca-9951-88d5799b0393)
+<br><br>
+
+
 ## ABOUT ME <br>
 My name is Gábor Sárközi, and I have been involved in coding and front-end development for several years. I have worked for both large corporations (multinational companies) and smaller startups, gaining experience from all sides. I enjoy working on exciting projects that carry growth opportunities and challenges, whether it's developing the ecosystem of a webshop with a complete NFT and its own medal system or creating an informative page about renewable energy with map visualization. I have experience in coding emails for marketing campaigns and supporting them with landing or event pages. I have acquired knowledge from websites with CMS integration and worked on a site where users could log in through social login to access their profiles, and so on.
 <br>
@@ -85,4 +90,8 @@ My name is Gábor Sárközi, and I have been involved in coding and front-end de
 🍻 Autodidact self-education <br>
 🍻 Creativity and willingness to learn <br>
 🍻 Good interpersonal communication <br>
-🍻 Growth mindset<br>
+🍻 Growth mindset<br><br>
+
+
+![doggo](https://github.com/sarkozigabor13/sarkozigabor13/assets/66883938/d6a4f021-06f7-4c03-b2fe-7b31c08a55d5)
+
