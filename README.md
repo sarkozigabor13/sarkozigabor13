@@ -1,10 +1,13 @@
-ABOUT ME: <br><br>
-💡 Having 3 years of experience in frontend development and sitebuilding in corporate environment.<br>
+ABOUT ME, TECHNOLOGIES I AM PROFICIENT IN <br><br>
+💡 Having 4 years of experience in frontend development and sitebuilding in corporate environment.<br>
 💡 HTML5, CSS, CSS3, Sass <br>
 💡 Javascript, React, GatsbyJS, Next.js <br>
 💡 Bootstrap, Chakra UI <br>
 💡 Storybook, Chromatic <br>
-💡 GIT, NPM, Yarn, CDN, AJAX, Grunt. <br><br>
+💡 GIT, NPM, Yarn, CDN, AJAX, Grunt <br><br>
+💡 HTML emails <br><br>
+💡 Libraries displaying maps such as OpenLayers <br><br>
+💡 CMS like Dato or Contentful, and their implementation on websites, for example, using OpenGraph <br><br>
 
 PROJECT ACHIEVEMENTS:<br><br>
 💪 Building ecommerce webstores.<br>
@@ -17,29 +20,36 @@ PROJECT ACHIEVEMENTS:<br><br>
 💪 Managing and moderate Shoprenter's webstores.<br><br>
 
 PROJECT PARTICIPATED:<br><br>
-💻 bexi.hu <br>
-💻 shop.frabex.com <br>
-💻 bearingexpress.shoprenter.hu<br>
-💻 csapagy.hu<br>
-💻 sarkoziklima.hu <br>
-💻 idée.hu <br>
-💻 nepijatektar.hu <br>
-💻 Codeberry school projects (chat application user interface, web application registration page, blog main page, company landing page) <br>
-💻 sarkozigabormunka.github.io <br>
-💻 sarkozigabor13.github.io <br><br>
+💻 [envimap](https://envimap.hu/)
+💻 [map.envimap](https://map.envimap.hu/)
+💻 [account.envimap](https://account.envimap.hu/)
+💻 [admin.envimap](https://admin.envimap.hu/)
+💻 [teto.envimap](https://teto.envimap.hu/)
+💻 [erdo.envimap](https://erdo.envimap.hu/)
+💻 [napenergiaterkep](https://napenergiaterkep.hu/)
+💻 [solarvp](https://solarvp.hu/)
+💻 [peak](https://www.peakfs.io/)
+💻 [playcard](https://playcard-web.vercel.app/)
+💻 [fluffys](https://fluffys.vercel.app/)
+💻 [bupa](https://bupa-sitebuild.vercel.app/)
+💻 [bexi](https://bexi.hu)
+💻 [shop.frabex](https://shop.frabex.com)
+💻 [bearingexpress](https://bearingexpress.shoprenter.hu)
+💻 [csapagy](https://csapagy.hu)
+💻 [sarkoziklima](https://sarkoziklima.hu)
+💻 [idée](https://idée.hu)
+💻 [nepijatektar](https://nepijatektar.hu)
+💻 [sarkozigabormunka.github.io](https://sarkozigabormunka.github.io)
+💻 [sarkozigabor13.github.io](https://sarkozigabor13.github.io)
 
 VERSION CONTROLS:<br><br>
-🚀 Github, GitKraken<br>
+🚀 Github<br>
+🚀 Gitlab<br>
+🚀 GitKraken<br>
 🚀 BitBucket<br><br>
 
 DEPLOY SYSTEM:<br><br>
 👑 Vercel, Netlify<br><br>
-
-ACHIEVEMENTS:<br><br>
-🏆 UDEMY: TS, Next.js, React, Storybook, Chakra UI<br>
-🏅 Codeberry frontend basics certificate (HTML5, CSS, CSS3, JSBIN, META, CHROME-DEVTOOLS)<br>
-🏆 Codeberry JS course certificate<br>
-🥇 National Office VET and ALE - Frontend course certificate<br><br>
 
 CODE EDITOR: <br><br>
 👨🏽💻 Virtual Studio Code<br>
