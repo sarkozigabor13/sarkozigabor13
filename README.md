@@ -1,4 +1,9 @@
-## ABOUT ME, TECHNOLOGIES I AM PROFICIENT IN <br>
+## ABOUT ME <br>
+My name is Gábor Sárközi, and I have been involved in coding and front-end development for several years. I have worked for both large corporations (multinational companies) and smaller startups, gaining experience from all sides. I enjoy working on exciting projects that carry growth opportunities and challenges, whether it's developing the ecosystem of a webshop with a complete NFT and its own medal system or creating an informative page about renewable energy with map visualization. I have experience in coding emails for marketing campaigns and supporting them with landing or event pages. I have acquired knowledge from websites with CMS integration and worked on a site where users could log in through social login to access their profiles, and so on.
+<br>
+
+
+## TECHNOLOGIES I AM PROFICIENT IN <br>
 💡 Having 4 years of experience in frontend development and sitebuilding in corporate environment.<br>
 💡 HTML5, CSS, CSS3, Sass <br>
 💡 Javascript, React, GatsbyJS, Next.js <br>
