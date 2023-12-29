@@ -95,7 +95,7 @@ Below, you'll find a summary in which I've organized professionally relevant inf
 🍻 Growth mindset<br><br>
 
 <div align="center">
-  <img src="https://github.com/sarkozigabor13/sarkozigabor13/assets/66883938/d6a4f021-06f7-4c03-b2fe-7b31c08a55d5" alt="doggo" height="300" />
+  <img src="https://github.com/sarkozigabor13/sarkozigabor13/assets/66883938/d6a4f021-06f7-4c03-b2fe-7b31c08a55d5" alt="doggo" height="200" />
 </div>
 <br><br>
 
