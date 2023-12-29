@@ -9,7 +9,7 @@
 💡 Libraries displaying maps such as OpenLayers <br><br>
 💡 CMS like Dato or Contentful, and their implementation on websites, for example, using OpenGraph <br><br>
 
-## PROJECT ACHIEVEMENTS:<br><br>
+## PROJECT ACHIEVEMENTS:<br>
 💪 Building ecommerce webstores.<br>
 💪 Building admin dashboard.<br>
 💪 Building ecommerce pages (contact, faq, landing pages).<br>
@@ -19,7 +19,7 @@
 💪 Coding webstore payment interface.<br>
 💪 Managing and moderate Shoprenter's webstores.<br><br>
 
-# PROJECT PARTICIPATED:<br><br>
+# PROJECT PARTICIPATED:<br>
 💻 [envimap](https://envimap.hu/)<br>
 💻 [map.envimap](https://map.envimap.hu/)<br>
 💻 [account.envimap](https://account.envimap.hu/)<br>
@@ -42,20 +42,20 @@
 💻 [sarkozigabormunka.github.io](https://sarkozigabormunka.github.io)<br>
 💻 [sarkozigabor13.github.io](https://sarkozigabor13.github.io)<br><br>
 
-# VERSION CONTROLS:<br><br>
+# VERSION CONTROLS:<br>
 🚀 Github<br>
 🚀 Gitlab<br>
 🚀 GitKraken<br>
 🚀 BitBucket<br><br>
 
-# DEPLOY SYSTEM:<br><br>
+# DEPLOY SYSTEM:<br>
 👑 Vercel, Netlify<br><br>
 
-# CODE EDITOR: <br><br>
+# CODE EDITOR: <br>
 👨🏽💻 Virtual Studio Code<br>
 👨🏽💻 JetBrains - WebStorm <br><br>
 
-# I'VE USED:<br><br>
+# I'VE USED:<br>
 🧩 Figma<br>
 🧩 Adobe Xd<br>
 🎨 Canva<br>
@@ -64,12 +64,12 @@
 ⌛️ Toggl<br>
 ⌛️ ClickUp<br>
 
-# TECHNICAL COMPETENCIES:<br><br>
+# TECHNICAL COMPETENCIES:<br>
 📌 Passionate about learning new technologies (React, VueJS, Angular)<br>
 📌 Passionate about learning new sitebuilder tools (Elementor, Wordpress, Shopify)<br>
 📌 Passionate about learning new css frameworks (Bulma, TailwandCSS, Codyhouse)<br><br>
 
-# MORE ABOUT ME AND SOFT SKILLS:<br><br>
+# MORE ABOUT ME AND SOFT SKILLS:<br>
 🍻 Mobile-first design concept  <br>
 🍻 Responsive, flexible <br>
 🍻 DRY principle, Clean Code <br>
