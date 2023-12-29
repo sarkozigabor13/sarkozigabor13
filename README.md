@@ -1,4 +1,4 @@
-# ABOUT ME, TECHNOLOGIES I AM PROFICIENT IN <br><br>
+## ABOUT ME, TECHNOLOGIES I AM PROFICIENT IN <br>
 💡 Having 4 years of experience in frontend development and sitebuilding in corporate environment.<br>
 💡 HTML5, CSS, CSS3, Sass <br>
 💡 Javascript, React, GatsbyJS, Next.js <br>
@@ -9,7 +9,7 @@
 💡 Libraries displaying maps such as OpenLayers <br><br>
 💡 CMS like Dato or Contentful, and their implementation on websites, for example, using OpenGraph <br><br>
 
-# PROJECT ACHIEVEMENTS:<br><br>
+## PROJECT ACHIEVEMENTS:<br><br>
 💪 Building ecommerce webstores.<br>
 💪 Building admin dashboard.<br>
 💪 Building ecommerce pages (contact, faq, landing pages).<br>
