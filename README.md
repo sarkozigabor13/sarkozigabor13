@@ -32,6 +32,10 @@ Below, you'll find a summary in which I've organized professionally relevant inf
 💪 Managing and moderate Shoprenter's webstores.<br><br>
 
 ## PROJECT PARTICIPATED:<br>
+💻 [Opus Titánok](https://www.opustitanok.hu/)<br>
+💻 [M1 Autószervíz](https://www.m1szerviz.com/)<br>
+💻 [M1 Flotta](https://www.m1flotta.com/)<br>
+💻 [PeriSync](https://perisyncapp.com/)<br>
 💻 [Debreceni beruházások interaktív térkép](https://debrecenhuiframe1.envimap.hu/)<br>
 💻 [Debreceni beruházások iframe](https://www.debrecen.hu/hu/debreceni/kozerdeku-adatok/uj-telepulesrendezesi-eszkozok)<br>
 💻 [envimap](https://envimap.hu/)<br>
