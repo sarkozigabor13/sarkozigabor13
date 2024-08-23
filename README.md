@@ -32,6 +32,8 @@ Below, you'll find a summary in which I've organized professionally relevant inf
 💪 Managing and moderate Shoprenter's webstores.<br><br>
 
 ## PROJECT PARTICIPATED:<br>
+💻 [Debreceni beruházások interaktív térkép](https://debrecenhuiframe1.envimap.hu/)<br>
+💻 [Debreceni beruházások iframe](https://www.debrecen.hu/hu/debreceni/kozerdeku-adatok/uj-telepulesrendezesi-eszkozok)<br>
 💻 [envimap](https://envimap.hu/)<br>
 💻 [map.envimap](https://map.envimap.hu/)<br>
 💻 [account.envimap](https://account.envimap.hu/)<br>
