@@ -82,6 +82,7 @@ Below, you'll find a summary in which I've organized professionally relevant inf
 ⌛️ Slack<br>
 ⌛️ Toggl<br>
 ⌛️ ClickUp<br>
+⌛️ Jira<br>
 
 ## TECHNICAL COMPETENCIES:<br>
 📌 Passionate about learning new technologies (React, VueJS, Angular)<br>
