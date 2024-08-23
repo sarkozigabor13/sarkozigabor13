@@ -11,15 +11,16 @@ Below, you'll find a summary in which I've organized professionally relevant inf
 <br><br>
 
 ## TECHNOLOGIES I AM PROFICIENT IN <br>
-💡 Having 4 years of experience in frontend development and sitebuilding in corporate environment.<br>
+💡 Having 5 years of experience in frontend development and sitebuilding in corporate environment.<br>
 💡 HTML5, CSS, CSS3, Sass <br>
-💡 Javascript, React, GatsbyJS, Next.js <br>
+💡 Javascript, Typescript, React, GatsbyJS, Next.js <br>
 💡 Bootstrap, Chakra UI <br>
 💡 Storybook, Chromatic <br>
 💡 GIT, NPM, Yarn, CDN, AJAX, Grunt <br>
-💡 HTML emails <br>
+💡 HTML emails (OFT, third-party, Eloqua) <br>
 💡 Libraries displaying maps such as OpenLayers <br>
-💡 CMS like Dato or Contentful, and their implementation on websites, for example, using OpenGraph <br><br>
+💡 CMS like Dato or Contentful, and their implementation on websites, for example, using OpenGraph <br>
+💡 Knowledge of libraries that deal with animations, such as GSAP and Framer Motion <br><br>
 
 ## PROJECT ACHIEVEMENTS:<br>
 💪 Building ecommerce webstores.<br>
