@@ -49,7 +49,7 @@ Below, you'll find a summary in which I've organized professionally relevant inf
 💻 [solarvp](https://solarvp.hu/)<br>
 💻 [peak](https://www.peakfs.io/)<br>
 💻 [playcard](https://playcard-web.vercel.app/)<br>
-💻 [fluffys](https://fluffys.vercel.app/)<br>
+💻 [fluffys](https://fluffys.io/)<br>
 💻 [bupa](https://bupa-sitebuild.vercel.app/)<br>
 💻 [bexi](https://bexi.hu)<br>
 💻 [shop.frabex](https://shop.frabex.com)<br>
