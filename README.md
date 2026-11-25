@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, My name is Gábor Sárközi and I'm a Front-end Developer 👋
+# Hi, my name is Gábor Sárközi and I'm a Front-end Developer 👋
 
 ### Building fast, accessible and content-driven web products with React, Next.js and TypeScript
 
