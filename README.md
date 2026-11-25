@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Gábor Sárközi 👋
+# Hi, My name is Gábor Sárközi and I'm a Front-end Developer 👋
 
-### Front-end Developer building fast, accessible and content-driven web products with React, Next.js and TypeScript
+### Building fast, accessible and content-driven web products with React, Next.js and TypeScript
 
 <p>
   <img src="https://img.shields.io/badge/Experience-7%2B%20years-6A45F5?style=flat-square" alt="7+ years experience" />
